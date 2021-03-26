@@ -1,3 +1,9 @@
+# 目錄
+* [GIT基本指令](#GIT基本指令)
+* [標籤](#標籤)
+* [Branch 相關指令](#Branch 相關指令)
+
+
 # GIT基本指令
 
 ## 第一次登陸GIT必須登錄
@@ -39,7 +45,12 @@
 
 **更新本地修改過的資料**
 
-`$ git add -u or git add .`
+`$ git add -u`
+
+or 
+
+`$ git add .`
+
 
 **提交版本**
 
@@ -54,7 +65,7 @@
 `$ git log --oneline`
 
 
-## 標籤
+# 標籤
 
 **查看標籤**
 
@@ -62,7 +73,7 @@
 
 **在 commit 點上新增標籤**
 
-`$ git tag [tag name] [?] -a -m "msg"`
+`$ git tag [tag name] [?] -a -m "tag name"`
 
 **移除標籤**
 

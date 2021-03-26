@@ -1,7 +1,7 @@
 # 目錄
 * [GIT基本指令](#GIT基本指令)
 * [標籤](#標籤)
-* [Branch 相關指令](#Branch 相關指令)
+* [Branch相關指令](#Branch相關指令)
 
 
 # GIT基本指令
@@ -80,7 +80,7 @@ or
 `$ git tag -d [tag name]`
 
 
-# Branch 相關指令
+# Branch相關指令
 
 **建立分支**
 
